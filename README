@@ -1,0 +1,35 @@
+****************** Jeux du MORPION GRAPHIQUE IA by Gokhan Kabar & Ala eddine Ben maammer *****************************
+
+Prénom : Gokhan
+Nom : Kabar
+
+Prénom : Ala eddine
+Nom : Ben maamer
+
+L'objectif :
+
+L’objectif était de faire le jeux du morpion graphiquement et de jouer contre une ia.
+L'objectif du jeux est d’aligner 3 symboles identiques dans une grille de 3X3.
+Comme vous le savez tous le jeux du morpion est jouer sur une grille de 3X3 et non sur une plus grande grille.
+Le jeu se joue contre une ia. 
+Le joueur possède un symbole parmis ‘X’ et ‘O’.
+A tour de rôle, ils dessinent dans une cas libre de la grille leur symbole respectif. 
+Celui qui aligne 3 de ses symboles (horizontal, vertical ou diagonal), remporte la victoire. 
+En cas de grille pleine sans alignement de 3 symboles identiques, c’est un match nulle.
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////
+                                 Tester le Jeux
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Il y a deux dossier L'iaFirst et l'iaSecond 
+
+Dans l'iaFirst l'ia se lance en premier puis le joueur pourra jouer en second.
+Dans l'iaSecond l'ia se lance en deuxième puis le joueur pourra jouer en premier.
+
+Pour lancer le jeux il suffit simplement de cliquer sur le fichier morpion.jar qui est disponible dans les deux dossiers.
+
+En cas de problème sur le lancement car je l'ai eu aussi sur ubuntu il suffit d'aller dans les propriété du fichier puis 
+sur permissions et cocher la case autoriser l'éxecution du fichier comme un programme.
+
